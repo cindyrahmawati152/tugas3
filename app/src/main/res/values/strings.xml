@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ecommerce</string>
+    <string name="content_price">Rp.2.300.000</string>
+    <string name="deskripsi">- Deskripsi</string>
+    <string name="content_text">Oppo F1s hadir dengan mengandalkan kualitas kamera selfie. Flagship teranyar itu menyematkan sensor beresolusi 16 megapiksel untuk menjamin pengalaman selfie yang mumpuni alias "selfie expert". Tak seperti ponsel lain yang seakan lebih mengutamakan kamera belakang, F1s justru terkesan bertumbu pada kamera depan. Sensor kamera belakangnya sendiri hanya 13 megapiksel. Meski demikian, Oppo mengklaim kualitas kamera 13 megapiksel miliknya tak kalah hebat dengan kamera selfie 16 megapiksel. Pasalnya, kamera belakang dilengkapi dengan sistem PDAF yang memungkinkan hasil foto mencapai resolusi 50 megapiksel
+    </string>
+    <string name="dimensi">154,5 × 76 × 7,38 mm.</string>
+    <string name="Layar"> 5,5 inci HD (1080 × 720 piksel)</string>
+    <string name="Memori_Internal">32GB, bisa diekspansi hingga 128GB.</string>
+    <string name="Processor">Mediatek MT6750 octa-core 1,5 GHz.</string>
+</resources>
